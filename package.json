@@ -1,0 +1,26 @@
+{
+  "name": "node-red-coval",
+  "version": "0.2.0",
+  "description": "A node-red module to work with coval",
+  "main": "coval.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/genecyber/node-red-coval.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "node-red": {
+    "nodes": {
+      "coval": "coval.js"
+    }
+  },
+  "author": "Shannon Code",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.51.0"
+  }
+}
