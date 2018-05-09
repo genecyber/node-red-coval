@@ -1,4 +1,4 @@
-node-red-scooby
+node-red-coval
 ========================
 
 A <a href="http://nodered.org" target="_new">Node-RED</a> node to interact with coval
